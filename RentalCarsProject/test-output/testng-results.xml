@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3137" started-at="2021-04-22T14:41:13 PDT" finished-at="2021-04-22T14:41:16 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3137" started-at="2021-04-22T14:41:13 PDT" finished-at="2021-04-22T14:41:16 PDT">
+      <class name="com.qa.restassured.tesla.rentalcarTests.RentalCarsTest">
+        <test-method status="PASS" signature="startServer()[pri:0, instance:com.qa.restassured.tesla.rentalcarTests.RentalCarsTest@3234e239]" name="startServer" is-config="true" duration-ms="722" started-at="2021-04-22T14:41:12 PDT" finished-at="2021-04-22T14:41:13 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startServer -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.restassured.tesla.rentalcarTests.RentalCarsTest@3234e239]" name="setup" is-config="true" duration-ms="497" started-at="2021-04-22T14:41:13 PDT" finished-at="2021-04-22T14:41:13 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getRequest_RentalCars()[pri:1, instance:com.qa.restassured.tesla.rentalcarTests.RentalCarsTest@3234e239]" name="getRequest_RentalCars" duration-ms="1731" started-at="2021-04-22T14:41:13 PDT" finished-at="2021-04-22T14:41:15 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_RentalCars -->
+        <test-method status="PASS" signature="getRequest_teslaCarsWithBluecolor()[pri:2, instance:com.qa.restassured.tesla.rentalcarTests.RentalCarsTest@3234e239]" name="getRequest_teslaCarsWithBluecolor" duration-ms="323" started-at="2021-04-22T14:41:15 PDT" finished-at="2021-04-22T14:41:15 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_teslaCarsWithBluecolor -->
+        <test-method status="PASS" signature="getRequest_LowestPricePerDay()[pri:3, instance:com.qa.restassured.tesla.rentalcarTests.RentalCarsTest@3234e239]" name="getRequest_LowestPricePerDay" duration-ms="265" started-at="2021-04-22T14:41:15 PDT" finished-at="2021-04-22T14:41:15 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_LowestPricePerDay -->
+        <test-method status="PASS" signature="highestRevenueCarsList()[pri:4, instance:com.qa.restassured.tesla.rentalcarTests.RentalCarsTest@3234e239]" name="highestRevenueCarsList" duration-ms="284" started-at="2021-04-22T14:41:15 PDT" finished-at="2021-04-22T14:41:16 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highestRevenueCarsList -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.restassured.tesla.rentalcarTests.RentalCarsTest@3234e239]" name="teardown" is-config="true" duration-ms="13" started-at="2021-04-22T14:41:16 PDT" finished-at="2021-04-22T14:41:16 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.restassured.tesla.rentalcarTests.RentalCarsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

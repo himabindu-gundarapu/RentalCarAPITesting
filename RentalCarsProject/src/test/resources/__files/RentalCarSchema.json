@@ -1,0 +1,131 @@
+{
+"Car" : [{
+     "make": "Audi",
+      "model": "A7",
+     "vin": "09AGHY64352JITEG98K",
+     "metadata" : {
+         "Color" : "Black",
+         "Notes" : "Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 140,
+         "Discount" : 15
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2190.76,
+         "depreciation": 2256.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 221
+             }
+         }
+       },
+     {    
+     "make": "Honda",
+      "model": "CRV",
+     "vin": "05786ERTF123GHTYMJ",
+     "metadata" : {
+         "Color" : "Blue",
+         "Notes" : "Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 130,
+         "Discount" : 10
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2345.76,
+         "depreciation": 2566.43,
+         "rentalcount" : {
+             "lastweek" : 6,
+             "yeartodate" : 451
+             }
+         }
+    }, 
+    {     
+     "make": "Tesla",
+      "model": "Model4",
+     "vin": "05734DFRTF123GHTYMJ",
+     "metadata" : {
+         "Color" : "Red",
+         "Notes" : "Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 180,
+         "Discount" : 20
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2345.76,
+         "depreciation": 2866.43,
+         "rentalcount" : {
+             "lastweek" : 5,
+             "yeartodate" : 781
+             }
+         }
+       },
+    {
+
+     "make": "Tesla",
+      "model": "Model4",
+     "vin": "05734DFRTF123GHTYMJ",
+     "metadata" : {
+         "Color" : "Blue",
+         "Notes" : "Scratches on the back side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 140,
+         "Discount" : 20
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2345.76,
+         "depreciation": 2866.43,
+         "rentalcount" : {
+             "lastweek" : 5,
+             "yeartodate" : 781
+       }
+   }
+},
+{
+        
+     "make": "Tesla",
+      "model": "M5",
+     "vin": "05734DFRTF123GHTYMJ",
+     "metadata" : {
+         "Color" : "Blue",
+         "Notes" : "Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 120,
+         "Discount" : 30
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2345.76,
+         "depreciation": 3877.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 652
+            }
+        }
+    },
+    {
+
+     "make": "Tayota",
+      "model": "CRV",
+     "vin": "05734gFRTF123GHTYMJ",
+     "metadata" : {
+         "Color" : "Blue",
+         "Notes" : "Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 90,
+         "Discount" : 30
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2145.76,
+         "depreciation": 2377.43,
+         "rentalcount" : {
+             "lastweek" : 6,
+             "yeartodate" : 562
+            }
+        }
+    }
+]}
